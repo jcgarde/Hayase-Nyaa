@@ -1,0 +1,8 @@
+{
+  "name": "Hayase Nyaa Extension",
+  "version": 1,
+  "author": "jcgarde",
+  "extensions": [
+    "https://raw.githubusercontent.com/jcgarde/Hayase-Nyaa/main/nyaa.js"
+  ]
+}
